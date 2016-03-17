@@ -1,2 +1,2 @@
 # ResponderGame
-This is project for EL6483 Real Time Embedded System.
+This is embedded system application based on STM32F4.
